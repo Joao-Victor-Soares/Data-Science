@@ -5,7 +5,7 @@
 </p>
 
 # João Victor Soares
-<sub>*Tecnologia da Informação</sub>
+<sub>*Sistemas de Informação</sub>
 
 Amante de tecnologias, aos 15 anos formado em Instalador e reparador de redes de computadores, aos 16 anos formado em Técnico em Informática, a admiração pela área foi crescendo. Aos 18 anos ingressei no curso de Sistemas de Informação, e em paralelo participando de uma das maiores organizações da comunidade PHP do Brasil, no mesmo ano fui contratado na empresa Van Erven Solution onde trabalhei por 2 anos.
 
