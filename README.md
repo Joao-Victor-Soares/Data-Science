@@ -9,10 +9,10 @@
 
 Amante de tecnologias, aos 15 anos formado em Instalador e reparador de redes de computadores, aos 16 anos formado em Técnico em Informática, a admiração pela área foi crescendo. Aos 18 anos ingressei no curso de Sistemas de Informação, e em paralelo participando de uma das maiores organizações da comunidade PHP do Brasil, no mesmo ano fui contratado na empresa Van Erven Solution onde trabalhei por 2 anos.
 
-Atualmente estudando e explorando o mundo dos dados, aprendendo técnicas de extração transformação e cargas de dados. Tratando e realizando 
-limpeza dos dados.
+Atualmente estudando e explorando o mundo dos dados, aprendendo técnicas de extração transformação e cargas de dados. Aplicando modelos de Machine Learning
+com o objetivo de classificar e prever dados futuros.
 
-**Background in:** Python, Data Science.
+**Background in:** Python, Data Science, Machine Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-soares-saraiva-7a51481b4/)
@@ -20,7 +20,7 @@ limpeza dos dados.
 
 ## Projetos:
 
-* **Nome do projeto:** link do projeto
+* **Análise de Risco de Crédito:** https://bit.ly/3AnKBQw
 
 
 ---
