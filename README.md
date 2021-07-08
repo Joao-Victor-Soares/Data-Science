@@ -20,7 +20,7 @@ com o objetivo de classificar e prever dados futuros.
 
 ## Projetos:
 
-* **Análise de Risco de Crédito:** https://bit.ly/3AnKBQw
+* **Análise de Risco de Crédito (algoritmo SVM):** https://bit.ly/3AnKBQw
 * **Análise de Churn de clientes em uma empresa de telecomunicação:** https://bit.ly/3hP00Rt
 
 
