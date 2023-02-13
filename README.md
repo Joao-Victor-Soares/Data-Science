@@ -7,12 +7,18 @@
 # João Victor Soares Saraiva
 <sub>*Sistemas de Informação</sub>
 
-Amante de tecnologias, aos 15 anos formado em Instalador e reparador de redes de computadores, aos 16 anos formado em Técnico em Informática, a admiração pela área foi crescendo. Aos 18 anos ingressei no curso de Sistemas de Informação, e em paralelo participando de uma das maiores organizações da comunidade PHP do Brasil, no mesmo ano fui contratado na empresa Van Erven Solution onde trabalhei por 2 anos.
+Sou formado em Técnico em Informática, sou graduado no curso de Sistemas de Informação, possuo conhecimento intermediário no idioma Inglês. Sou organizado, responsável, dinâmico.
 
-Atualmente estudando e explorando o mundo dos dados, aprendendo técnicas de extração transformação e cargas de dados. Aplicando modelos de Machine Learning
-com o objetivo de classificar e prever dados futuros.
+Ao longo da minha vida acadêmica busquei focar e meaperfeiçoar em cursos e conteúdos sobre análise e ciência dedados. Me dediquei a conhecer sobre metodologias e
+tecnologias que englobam a área de dados.
 
-**Background in:** Python, Data Science, Machine Learning.
+Hoje tenho conhecimentos que me permitem desenvolver uma solução completa para armazenamento, gestão e automatização de fluxos de dados. As tecnologias que tenho
+estudado são o Apache Airflow, para gerenciamento e automatização do fluxo de dados, MySQL que é o sistema de gerenciamento de dados, o MinIO, que é o Data Lake para
+armazenamento de dados. Além das tecnologias, estudei uma gama poderosa de ferramentas e bibliotecas para realizar análise de dados e Machine Learning, que são a
+linguagem de programação Python, o ambiente de desenvolvimento Jupyter Notebook, o Pandas que é uma biblioteca de manipulação de dados, as bibliotecas Matplotlib, Seaborn e Plotly para visualização de dados. A biblioteca Scikit-learn para desenvolver algoritmos de Machine Learning, o Pycaret para automatizar o fluxo de
+criação e avaliação de algoritmos de aprendizado de máquina e por fim, para a criação de uma interface de usuário a biblioteca Streamlit.
+
+**Background in:** Python, Data Science, Machine Learning, Apache Airflow, Pycaret, Streamlit, SQL.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-soares-saraiva-7a51481b4/)
