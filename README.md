@@ -31,7 +31,7 @@ criação e avaliação de algoritmos de aprendizado de máquina e por fim, para
 * **Análise de satisfação dos clientes que compram no e-commerce no Brasil:** https://bit.ly/2UjVKBz
 * **Prevendo Valores de Imóveis de Boston:** https://bit.ly/3wybSzW
 * **Análise de Recursos Humanos (prevendo turnover):** https://bit.ly/3beSSOQ
-
+* **Manutenção preventiva:** https://bit.ly/3mTegio
 ---
 
 
