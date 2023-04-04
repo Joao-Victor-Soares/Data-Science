@@ -7,7 +7,7 @@
 # João Victor Soares Saraiva
 <sub>*Sistemas de Informação</sub>
 
-Sou formado em Técnico em Informática, sou graduado no curso de Sistemas de Informação, possuo conhecimento intermediário no idioma Inglês. Sou organizado, responsável, dinâmico.
+Sou formado em Técnico em Informática, sou graduado no curso de Sistemas de Informação, possuo conhecimento intermediário no idioma Inglês. Sou organizado, responsável e dinâmico.
 
 Ao longo da minha vida acadêmica busquei focar e meaperfeiçoar em cursos e conteúdos sobre análise e ciência dedados. Me dediquei a conhecer sobre metodologias e
 tecnologias que englobam a área de dados.
