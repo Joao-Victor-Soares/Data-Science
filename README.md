@@ -30,8 +30,9 @@ criação e avaliação de algoritmos de aprendizado de máquina e por fim, para
 * **2. Análise de Churn de clientes em uma empresa de telecomunicação:** https://bit.ly/3hP00Rt
 * **3. Análise de satisfação dos clientes que compram no e-commerce no Brasil:** https://bit.ly/2UjVKBz
 * **4. Prevendo Valores de Imóveis de Boston:** https://bit.ly/3wybSzW
-* **5. Análise de Recursos Humanos (prevendo turnover):** https://bit.ly/3beSSOQ
+* **5. Análise de Recursos Humanos (Prevendo Turnover):** https://bit.ly/3beSSOQ
 * **6. Manutenção preventiva:** https://bit.ly/3mTegio
+* **7. Relatório de Vendas de Supermercado (Séries Temporais):** https://bit.ly/3PBlT9f
 ---
 
 
